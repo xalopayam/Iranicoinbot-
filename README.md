@@ -1,2 +1,2 @@
-# Iranicoinbot-
-ساخت ایرانی توکن ی ایده برای تمام ملت ایران ک پولی داشته باشن بدون هیچ تحریمی و با ارزش زیادض
+# IranicoinBot
+A Telegram bot for mission-based reward system.
